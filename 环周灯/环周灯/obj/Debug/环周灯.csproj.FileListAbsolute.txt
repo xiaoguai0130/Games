@@ -1,0 +1,9 @@
+C:\Users\60411\Desktop\环周灯\环周灯\obj\Debug\环周灯.csprojAssemblyReference.cache
+C:\Users\60411\Desktop\环周灯\环周灯\obj\Debug\环周灯.Form1.resources
+C:\Users\60411\Desktop\环周灯\环周灯\obj\Debug\环周灯.Properties.Resources.resources
+C:\Users\60411\Desktop\环周灯\环周灯\obj\Debug\环周灯.csproj.GenerateResource.cache
+C:\Users\60411\Desktop\环周灯\环周灯\bin\Debug\环周灯.exe.config
+C:\Users\60411\Desktop\环周灯\环周灯\bin\Debug\环周灯.exe
+C:\Users\60411\Desktop\环周灯\环周灯\bin\Debug\环周灯.pdb
+C:\Users\60411\Desktop\环周灯\环周灯\obj\Debug\环周灯.exe
+C:\Users\60411\Desktop\环周灯\环周灯\obj\Debug\环周灯.pdb
